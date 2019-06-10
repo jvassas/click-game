@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Ravens",
+        "image": "http://content.sportslogos.net/logos/7/153/full/318.png",
+        "count": 0
+    },
+    {
+        "id": 2,
+        "name": "Patriots",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/516vh1wMvcL._SL1200_.jpg",
+        "count": 0
+    },
+    {
+        "id": 3,
+        "name": "Chiefs",
+        "image": "https://i.pinimg.com/originals/e6/7f/4f/e67f4fd39305d4c5fdd5d9b7ff3a629e.jpg",
+        "count": 0
+    },
+    {
+        "id": 4,
+        "name": "Saints",
+        "image": "https://cdn.freebiesupply.com/images/large/2x/new-orleans-saints-logo-transparent.png",
+        "count": 0
+    },
+    {
+        "id": 5,
+        "name": "Browns",
+        "image": "http://www.nbcsportsradio.com/wp-content/uploads/sites/1353/2016/07/large.png",
+        "count": 0
+    },
+    {
+        "id": 6,
+        "name": "Rams",
+        "image": "https://fanatics.frgimages.com/FFImage/thumb.aspx?i=/productimages/_3336000/altimages/ff_3336015-333d57bebbf61e2c5349alt1_full.jpg&w=900",
+        "count": 0
+    },
+    {
+        "id": 7,
+        "name": "Bears",
+        "image": "http://content.sportslogos.net/logos/7/169/full/364.png",
+        "count": 0
+    },
+    {
+        "id": 8,
+        "name": "Raiders",
+        "image": "https://cdn.freebiesupply.com/images/large/2x/oakland-raiders-logo-transparent.png",
+        "count": 0
+    },
+    {
+        "id": 9,
+        "name": "Chargers",
+        "image": "https://cdn.freebiesupply.com/images/large/2x/los-angeles-chargers-logo-transparent.png",
+        "count": 0
+    },
+    {
+        "id": 10,
+        "name": "Packers",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Green_Bay_Packers_logo.svg/1280px-Green_Bay_Packers_logo.svg.png",
+        "count": 0
+    },
+    {
+        "id": 11,
+        "name": "Eagles",
+        "image": "http://content.sportslogos.net/logos/7/167/full/960.png",
+        "count": 0
+    },
+    {
+        "id": 12,
+        "name": "Cowboys",
+        "image": "http://content.sportslogos.net/logos/7/165/full/406.png",
+        "count": 0
+    }
+]
